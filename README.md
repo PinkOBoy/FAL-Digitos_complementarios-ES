@@ -1,6 +1,10 @@
-# Name
-Ejercicio de algoritmos recursivos de FAL. El proyecto fue creado en Visual Studio 2022, aun así se puede descargar individualmente el archivo de name.cpp con la solución y el enunciado en name.pdf La solución fue dada por un profesor (mencionado en la solución) y ha sido editada y completada por mí para semejar lo que piden en un examen.
+# FAL - Dígitos Complementarios (?)
+Ejercicio de algoritmos recursivos de FAL. Sinceramente, he encontrado este código perdido en mi ordenador, sin enunciado ni nada, así que equis de.
 
-Exercise of recurisve algorithms. The project was created with Visual Studio 2022. Although, you should be able to download individually the file name.cpp with the solution and the instructions of the exercise name.pdf (just available in Spanish). This solution was given by a professor (credits in the solution file) and I have edited and completed the solution so it looks more like an "exam solution".
+Por lo que parece, se puede inferir que, dado un número entero positivo de entrada, se muestra su complementario y el inverso del complementario, todas estas operaciones con módulo 10.
+
+Exercise of recurisve algorithms. Genuinely, I've found this code lost in my computer, without instructions, so... ex de.
+
+So it appears, we can infer that, given a positive integer as input, the program prints its complementary and the inverse of the complementary, all operations in modulo 10.
 
 2022-2023
